@@ -9,3 +9,4 @@ This schema is designed to ensure a robust, scalable, and normalized data struct
 ---
 
 ## Database Diagram
+![database-airbnb_schema](https://github.com/user-attachments/assets/e7eab8e7-5fe4-4434-b5f6-d2b9c3aa41a7)
